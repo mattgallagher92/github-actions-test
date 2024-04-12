@@ -1,2 +1,1 @@
-﻿2
-printfn "Hello from F#"
+﻿printfn "Hello from F#"
