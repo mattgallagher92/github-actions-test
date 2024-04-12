@@ -1,2 +1,2 @@
-﻿1
+﻿2
 printfn "Hello from F#"
